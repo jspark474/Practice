@@ -1,0 +1,15 @@
+/Users/jisupark/Desktop/CSharp/CSharp/bin/Debug/net6.0/CSharp
+/Users/jisupark/Desktop/CSharp/CSharp/bin/Debug/net6.0/CSharp.deps.json
+/Users/jisupark/Desktop/CSharp/CSharp/bin/Debug/net6.0/CSharp.runtimeconfig.json
+/Users/jisupark/Desktop/CSharp/CSharp/bin/Debug/net6.0/CSharp.dll
+/Users/jisupark/Desktop/CSharp/CSharp/bin/Debug/net6.0/CSharp.pdb
+/Users/jisupark/Desktop/CSharp/CSharp/obj/Debug/net6.0/CSharp.csproj.AssemblyReference.cache
+/Users/jisupark/Desktop/CSharp/CSharp/obj/Debug/net6.0/CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jisupark/Desktop/CSharp/CSharp/obj/Debug/net6.0/CSharp.AssemblyInfoInputs.cache
+/Users/jisupark/Desktop/CSharp/CSharp/obj/Debug/net6.0/CSharp.AssemblyInfo.cs
+/Users/jisupark/Desktop/CSharp/CSharp/obj/Debug/net6.0/CSharp.csproj.CoreCompileInputs.cache
+/Users/jisupark/Desktop/CSharp/CSharp/obj/Debug/net6.0/CSharp.dll
+/Users/jisupark/Desktop/CSharp/CSharp/obj/Debug/net6.0/refint/CSharp.dll
+/Users/jisupark/Desktop/CSharp/CSharp/obj/Debug/net6.0/CSharp.pdb
+/Users/jisupark/Desktop/CSharp/CSharp/obj/Debug/net6.0/CSharp.genruntimeconfig.cache
+/Users/jisupark/Desktop/CSharp/CSharp/obj/Debug/net6.0/ref/CSharp.dll

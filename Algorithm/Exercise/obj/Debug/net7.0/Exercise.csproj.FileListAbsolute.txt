@@ -1,0 +1,15 @@
+/Users/jisupark/Desktop/Algorithm/Exercise/bin/Debug/net7.0/Exercise
+/Users/jisupark/Desktop/Algorithm/Exercise/bin/Debug/net7.0/Exercise.deps.json
+/Users/jisupark/Desktop/Algorithm/Exercise/bin/Debug/net7.0/Exercise.runtimeconfig.json
+/Users/jisupark/Desktop/Algorithm/Exercise/bin/Debug/net7.0/Exercise.dll
+/Users/jisupark/Desktop/Algorithm/Exercise/bin/Debug/net7.0/Exercise.pdb
+/Users/jisupark/Desktop/Algorithm/Exercise/obj/Debug/net7.0/Exercise.csproj.AssemblyReference.cache
+/Users/jisupark/Desktop/Algorithm/Exercise/obj/Debug/net7.0/Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jisupark/Desktop/Algorithm/Exercise/obj/Debug/net7.0/Exercise.AssemblyInfoInputs.cache
+/Users/jisupark/Desktop/Algorithm/Exercise/obj/Debug/net7.0/Exercise.AssemblyInfo.cs
+/Users/jisupark/Desktop/Algorithm/Exercise/obj/Debug/net7.0/Exercise.csproj.CoreCompileInputs.cache
+/Users/jisupark/Desktop/Algorithm/Exercise/obj/Debug/net7.0/Exercise.dll
+/Users/jisupark/Desktop/Algorithm/Exercise/obj/Debug/net7.0/refint/Exercise.dll
+/Users/jisupark/Desktop/Algorithm/Exercise/obj/Debug/net7.0/Exercise.pdb
+/Users/jisupark/Desktop/Algorithm/Exercise/obj/Debug/net7.0/Exercise.genruntimeconfig.cache
+/Users/jisupark/Desktop/Algorithm/Exercise/obj/Debug/net7.0/ref/Exercise.dll

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{86F0F203-CC6F-4340-87F6-751D41BBAB71}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../CSharp/Program.cs" line="13" column="8" endLine="13" endColumn="15" offsetX="-1" offsetY="-1" expression="monster.hp" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharp/Program.cs">
+    <Files>
+      <File FileName="CSharp/Program.cs" Line="8" Column="28" />
+      <File FileName="CSharp/Player.cs" Line="13" Column="3" />
+      <File FileName="CSharp/Monster.cs" Line="39" Column="3" />
+      <File FileName="CSharp/Creature.cs" Line="38" Column="1" />
+      <File FileName="CSharp/Game.cs" Line="12" Column="15" />
+      <File FileName="CSharp/InputManager.cs" Line="15" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharp" expanded="True">
+            <Node name="CSharp" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

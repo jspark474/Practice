@@ -1,0 +1,15 @@
+/Users/jisupark/Desktop/Algorithm/Algorithm/obj/Debug/net7.0/Algorithm.csproj.AssemblyReference.cache
+/Users/jisupark/Desktop/Algorithm/Algorithm/obj/Debug/net7.0/Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jisupark/Desktop/Algorithm/Algorithm/obj/Debug/net7.0/Algorithm.AssemblyInfoInputs.cache
+/Users/jisupark/Desktop/Algorithm/Algorithm/obj/Debug/net7.0/Algorithm.AssemblyInfo.cs
+/Users/jisupark/Desktop/Algorithm/Algorithm/obj/Debug/net7.0/Algorithm.csproj.CoreCompileInputs.cache
+/Users/jisupark/Desktop/Algorithm/Algorithm/bin/Debug/net7.0/Algorithm
+/Users/jisupark/Desktop/Algorithm/Algorithm/bin/Debug/net7.0/Algorithm.deps.json
+/Users/jisupark/Desktop/Algorithm/Algorithm/bin/Debug/net7.0/Algorithm.runtimeconfig.json
+/Users/jisupark/Desktop/Algorithm/Algorithm/bin/Debug/net7.0/Algorithm.dll
+/Users/jisupark/Desktop/Algorithm/Algorithm/bin/Debug/net7.0/Algorithm.pdb
+/Users/jisupark/Desktop/Algorithm/Algorithm/obj/Debug/net7.0/Algorithm.dll
+/Users/jisupark/Desktop/Algorithm/Algorithm/obj/Debug/net7.0/refint/Algorithm.dll
+/Users/jisupark/Desktop/Algorithm/Algorithm/obj/Debug/net7.0/Algorithm.pdb
+/Users/jisupark/Desktop/Algorithm/Algorithm/obj/Debug/net7.0/Algorithm.genruntimeconfig.cache
+/Users/jisupark/Desktop/Algorithm/Algorithm/obj/Debug/net7.0/ref/Algorithm.dll
